@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO: replace TODO-your-domain.com with the real domain once it's set up -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://TODO-your-domain.com/</loc></url>
+  <url><loc>https://TODO-your-domain.com/book.html</loc></url>
+  <url><loc>https://TODO-your-domain.com/installation.html</loc></url>
+  <url><loc>https://TODO-your-domain.com/public-art.html</loc></url>
+  <url><loc>https://TODO-your-domain.com/paintings.html</loc></url>
+  <url><loc>https://TODO-your-domain.com/performance.html</loc></url>
+  <url><loc>https://TODO-your-domain.com/shop.html</loc></url>
+  <url><loc>https://TODO-your-domain.com/about.html</loc></url>
+  <url><loc>https://TODO-your-domain.com/contact.html</loc></url>
+  <url><loc>https://TODO-your-domain.com/privacy.html</loc></url>
+  <url><loc>https://TODO-your-domain.com/terms.html</loc></url>
+  <!-- Add one <url> per published artwork-detail page once real pieces exist -->
+</urlset>
